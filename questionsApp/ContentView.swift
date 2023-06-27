@@ -29,13 +29,14 @@ struct ContentView: View {
                 welcomeText = "Welcome \(name), click this button to continue onto the next part of the quiz"
                 
             }
-            
                 }
         .padding()
                 }
         
         }
-            }
+        
+        }
+            
             
             
             
